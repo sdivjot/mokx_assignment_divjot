@@ -1,4 +1,4 @@
-import yogagirl from '../logos/yogagirl.svg'
+import yogagirl from '../logos/yogagirl.png'
 
 function reply() {
     return <div className="h-[54px] flex flex-row justify-start w-full pl-[20px] pt-[30px]">

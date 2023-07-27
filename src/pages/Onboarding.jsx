@@ -1,4 +1,4 @@
-import namaste from '../namaste.svg'
+import namaste from '../yogagirl.png'
 import logos from '../logos/applegooglefb.svg'
 import or from '../logos/or.svg'
 import Loadup from './Loadup'
